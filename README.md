@@ -16,8 +16,3 @@ No Activity tracked this Week
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huutoan02&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
