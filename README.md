@@ -8,6 +8,8 @@ No Activity tracked this Week
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huutoan02&layout=compact)](#)
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 [📘 Facebook](https://www.facebook.con/huutoan02)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
