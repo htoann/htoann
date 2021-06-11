@@ -2,6 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=huutoan02&repo=github-readme-stats)](https://github.com/huutoan02/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ```text
