@@ -6,7 +6,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huutoan02&layout=compact&show_icons=true&exclude_repo=KNN-Image-Classification&langs_count=10)](#)
