@@ -6,9 +6,11 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huutoan02&layout=compact)](#)
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
 [📘 Facebook](https://www.facebook.con/huutoan02)
 
