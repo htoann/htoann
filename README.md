@@ -33,8 +33,4 @@ No Activity tracked this Week
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
 
 
-
-[📘 Facebook](https://www.facebook.con/huutoan02)
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
