@@ -1,19 +1,27 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+<a href="#">
+  <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</a>
 <a href="https://www.facebook.com/huutoan02/">
-  <img align="left" width="20px" alt="Tran Huu Toan | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
+  <img align="left" width="30px" alt="Tran Huu Toan | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
 </a>
 <a href="https://twitter.com/MeizuToan">
-  <img align="left" width="21px" alt="Tran Huu Toan | Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" width="30px" alt="Tran Huu Toan | Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+
 <br/>
 <br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+<br/>
+
 <!-- **Languages and Tools:** -->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
