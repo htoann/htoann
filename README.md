@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 <a href="https://www.facebook.com/huutoan02/">
   <img align="left" width="20px" alt="Tran Huu Toan | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
@@ -5,12 +6,8 @@
 <a href="https://twitter.com/MeizuToan">
   <img align="left" width="21px" alt="Tran Huu Toan | Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-
-<br />
-<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
+<br/>
+<br/>
 <!-- **Languages and Tools:** -->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,6 +28,22 @@ No Activity tracked this Week
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um)
+
+<details>
+  <summary>:zap: Recent GitHub Project</summary>
+  <br/>
+<!--START_SECTION:activity-->
+  
+- Blog https://github.com/huutoan02/NodeJS-Blog
+- React https://github.com/huutoan02/ReactJS
+- Zoom Clone https://github.com/huutoan02/NodeJS-Zoom-Clone
+<!--END_SECTION:activity-->
+
+</details>
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
