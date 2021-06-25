@@ -13,30 +13,26 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<br/>
-
-<!-- **Languages and Tools:** -->
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<br/> 
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huutoan02&layout=compact&show_icons=true&exclude_repo=KNN-Image-Classification&langs_count=10)](#) -->
-
-
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
+<br/>
+<!-- **Languages and Tools:** -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
+
+---
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um)
 
----
-
-### Recent GitHub Activity
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#486](https://github.com/benjaminsampica/benjaminsampica/issues/486) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
@@ -45,6 +41,7 @@
 4. ❗️ Opened issue [#14397](https://github.com/timburgan/timburgan/issues/14397) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
+</details>
 
 <details>
   <summary>:zap: Recent GitHub Project</summary>
