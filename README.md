@@ -8,8 +8,7 @@
   <img align="left" width="30px" alt="Tran Huu Toan | Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<br/>
-<br/>
+<br/> <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
