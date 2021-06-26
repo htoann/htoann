@@ -47,8 +47,8 @@
   <summary>:zap: Recent GitHub Project</summary> <br/>
 <!--START_SECTION:activity-->
   
-- React https://github.com/huutoan02/ReactJS
 - Zoom Clone https://github.com/huutoan02/NodeJS-Zoom-Clone
+- React https://github.com/huutoan02/ReactJS
 - Blog https://github.com/huutoan02/NodeJS-Blog
 
 <!--END_SECTION:activity-->
