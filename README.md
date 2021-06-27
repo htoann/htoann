@@ -49,7 +49,7 @@
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Project</summary> <br/>
+  <summary>:zap: Recent GitHub Repositories</summary> <br/>
 <!--START_SECTION:activity-->
   
 - Zoom Clone https://github.com/huutoan02/NodeJS-Zoom-Clone
