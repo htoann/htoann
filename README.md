@@ -12,12 +12,18 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<br/> 
+<br/>
 
 <!-- <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" /> -->
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
-<br/>
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
+<a href="https://github.com/huutoan02/NodeJS-Blog">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huutoan02&repo=nodejs-blog&theme=cobalt" />
+</a>
+
+<br/><br/><br/><br/>
+
+
 <!-- **Languages and Tools:** -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
