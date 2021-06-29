@@ -39,7 +39,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um)
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
