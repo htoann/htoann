@@ -42,20 +42,6 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um)
 
 <details>
-  <summary>:zap: Recent GitHub Repositories</summary> <br/>
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/letronghoangminh/Sgroup-BE/issues/3) in [letronghoangminh/Sgroup-BE](https://github.com/letronghoangminh/Sgroup-BE)
-2. ❗️ Closed issue [#486](https://github.com/benjaminsampica/benjaminsampica/issues/486) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-3. ❗️ Opened issue [#486](https://github.com/benjaminsampica/benjaminsampica/issues/486) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-4. ❗️ Opened issue [#14398](https://github.com/timburgan/timburgan/issues/14398) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-
-<!--END_SECTION:activity-->
-
-</details>
-
-
-
-<details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
 
 <!--START_SECTION:activity-->
