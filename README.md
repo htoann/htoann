@@ -19,7 +19,7 @@
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
 <!-- <p>Outstanding project</p> -->
 <a href="https://github.com/huutoan02/NodeJS-Blog">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huutoan02&repo=nodejs-blog&theme=cobalt" />
