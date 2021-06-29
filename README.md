@@ -44,10 +44,10 @@
 <details>
   <summary>:zap: Recent GitHub Repositories</summary> <br/>
 <!--START_SECTION:activity-->
-  
-- Zoom Clone https://github.com/huutoan02/NodeJS-Zoom-Clone
-- React https://github.com/huutoan02/ReactJS
-- Blog https://github.com/huutoan02/NodeJS-Blog
+1. ❗️ Opened issue [#3](https://github.com/letronghoangminh/Sgroup-BE/issues/3) in [letronghoangminh/Sgroup-BE](https://github.com/letronghoangminh/Sgroup-BE)
+2. ❗️ Closed issue [#486](https://github.com/benjaminsampica/benjaminsampica/issues/486) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+3. ❗️ Opened issue [#486](https://github.com/benjaminsampica/benjaminsampica/issues/486) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
+4. ❗️ Opened issue [#14398](https://github.com/timburgan/timburgan/issues/14398) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 
 <!--END_SECTION:activity-->
 
