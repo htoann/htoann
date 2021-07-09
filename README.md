@@ -58,11 +58,6 @@
 
 <!-- Example show blog list from medium -->
 
-<!-- ## Blog posts
+<!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
-- [Blazing Fast and Cost-Effective Query in AWS DynamoDB](https://aws.plainenglish.io/blazing-fast-and-cost-effective-query-in-aws-dynamodb-18b49009e0f1?source=rss-fe04a352a811------2)
-- [How to Create a Kick-Ass GitHub Profile in 5 Minutes](https://javascript.plainenglish.io/how-to-create-a-kick-ass-github-profile-in-5-minutes-19a8e8d0693b?source=rss-fe04a352a811------2)
-- [Think Twice Before Joining Large Companies as a Junior Engineer](https://levelup.gitconnected.com/think-twice-before-joining-large-companies-as-a-junior-engineer-a1179c967642?source=rss-fe04a352a811------2)
-- [Developing a Powerful Alert System Using React Context API](https://javascript.plainenglish.io/developing-a-powerful-alert-system-using-react-context-api-df68c357db68?source=rss-fe04a352a811------2)
-- [My Frustrations With the Context API in React](https://betterprogramming.pub/my-frustrations-with-the-context-api-in-react-26189fcd5371?source=rss-fe04a352a811------2)
 <!-- BLOG-POST-LIST:END -->
