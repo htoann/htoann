@@ -55,9 +55,3 @@
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
-<!-- Example show blog list from medium -->
-
-<!-- ## Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
