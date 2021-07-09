@@ -4,9 +4,9 @@
 <a href="https://www.facebook.com/huutoan02/">
   <img align="left" width="30px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
 </a>
-<!-- <a href="https://www.instagram.com/htoan.js/">
+<a href="https://www.instagram.com/htoan.js/">
   <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/>
-</a> -->
+</a>
 <!-- <a href="https://twitter.com/MeizuToan">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a> -->
