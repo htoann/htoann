@@ -11,7 +11,9 @@
   <img align="left" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a> -->
 
-<br><br>
+<br>
+<hr>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
@@ -19,7 +21,7 @@
 
 <br>
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huutoan02&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- <a href="https://github.com/huutoan02/NodeJS-Blog">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=huutoan02&repo=nodejs-blog&theme=cobalt" />
@@ -43,6 +45,8 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um)
+
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
