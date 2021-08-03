@@ -1,15 +1,9 @@
 <a href="#">
-  <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+  <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32px"/>
 </a>
-<a href="https://www.facebook.com/huutoan02/">
-  <img align="left" width="30px" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
+<a href="https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um">
+  <img align="left" alt="Abhishek's Spotify" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.instagram.com/htoan.js/">
-  <img align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/1200px-Instagram.svg.png"/>
-</a>
-<!-- <a href="https://twitter.com/MeizuToan">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a> -->
 
 <br>
 <hr>
