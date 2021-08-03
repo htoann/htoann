@@ -2,7 +2,7 @@
   <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32px"/>
 </a>
 <a href="https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um">
-  <img align="left" alt="Abhishek's Spotify" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Abhishek's Spotify" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
 <br>
