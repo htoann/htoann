@@ -1,7 +1,8 @@
-name: Update README
+name: GitHub - Activity - Readme
 
 on:
   schedule:
+    # Runs every 30 minutes
     - cron: '*/30 * * * *'
 
 jobs:
@@ -11,9 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-
-      # Pin the version to the latest stable version.
-      # If you want to live on edge, use 'master' branch.
-      - uses: MadeByThePinsHub/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          GH_USERNAME: "huutoan02"
+          COMMIT_MSG: '⚡ Update README with the recent activity'
+          MAX_LINES: 10
