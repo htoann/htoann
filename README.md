@@ -40,7 +40,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" />](https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um) -->
 
-<!-- <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" /> -->
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
