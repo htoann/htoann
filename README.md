@@ -40,13 +40,13 @@
 
 ## Github Stats
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
 <br>
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=radical&langs_count=10" />
 </div>
 
