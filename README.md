@@ -41,8 +41,8 @@
 ## Github Stats
 
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=radical&langs_count=8" />
 </div>
 
 <br><br><br><br><br><br><br><br><br>
