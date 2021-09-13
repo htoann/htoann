@@ -42,10 +42,15 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=radical&langs_count=8" />
 </div>
 
-<br><br><br><br><br><br><br><br><br>
+<br>
+
+<div>
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=radical&langs_count=10" />
+</div>
+
+<br>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
