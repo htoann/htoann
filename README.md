@@ -1,6 +1,4 @@
-<h1 align="center">
-Hi, there
-</h1>
+<h1 align="center"> Hi, there </h1>
 
 <!-- Info -->
 <!-- <a href="#">
@@ -19,13 +17,10 @@ Hi, there
   </a>
 </div>
 
-<br>
-<br>
+<br> <br>
 
 <div align="center">
-  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huutoan02&theme=neon-dark&hide_border=true)](https://git.io/streak-stats)
-  
 </div>
 
 <!-- **Languages and Tools:** -->
@@ -43,14 +38,12 @@ Hi, there
 
 ## Github Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=huutoan02&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img align="right" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=radical&langs_count=8" />
 </div>
-</br>
 
-<!-- <div align="center">
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=huutoan02&layout=compact&theme=material-palenight&langs_count=10" />
-</div> -->
+<br><br><br><br><br><br><br><br><br>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
