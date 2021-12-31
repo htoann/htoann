@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, there </h1>
+<!-- <h1 align="center"> Hi, there </h1> -->
 
 <!-- Info -->
 <!-- <a href="#">
@@ -11,13 +11,19 @@
 
 </br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/hoangvu12">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;Also+a+self-taught+developer;Always+looking+for+new+things+to+learn&center=true&width=450&height=45"/>
   </a>
+</div> -->
+
+<div align="center">
+  <a href="https://github.com/hoangvu12">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+world!');&center=true&width=450&height=45"/>
+  </a>
 </div>
 
-<br> <br>
+<br>
 
 <div align="center">
   
