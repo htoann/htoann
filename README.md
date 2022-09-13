@@ -124,28 +124,7 @@
 </td>
 <td valign="top" align="center" width="50%">
 
-### Recent Updates
-
-<!-- BLOG-POST-LIST:START -->
-- [I made the best Github ReadMe EVER!](https://dev.to/milkshakegum/i-made-the-best-github-readme-ever-42bd)
-<!-- BLOG-POST-LIST:END -->
-
-</td>
-</tr>
-
-</table>
-
-
-| <img src="https://github-readme-stats.vercel.app/api?username=milkshakegum&show_icons=true&theme=buefy" alt="Github Stats of Milk" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkshakegum&layout=compact&hide=html&theme=buefy" alt="Profile Stats of Milk" /> |
-| :-------------: | :-------------: |
-
-
-*Statistics are extracted from my public activity and doesn't reflect completely the work with my clients. Feel free to [contact me](https://twitter.com/milkbuildsstuff/@blank) if you want to know more about my skills.*
-
-
-
 </details>
-
-<img src="https://komarev.com/ghpvc/?username=milkshakegum&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View counts of Milk" />
+  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
