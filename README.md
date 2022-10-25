@@ -2,13 +2,14 @@
   <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32px"/>
 </a> -->
 
-### Hi fellows 👋
-
-- 🔭 I'm currently 3nd year student at DTU - Duy Tan University
+### Hi 👋
+- 🎓 My full name is **Tran Huu Toan**
+- 🔭 I'm currently 3nd year student at **DTU - Duy Tan University**
 - 💬 Ask me about every thing
-- 📫 How to reach me: [Facebook](https://www.facebook.com/htoann/)
+- 📫 How to reach me: **[Facebook](https://www.facebook.com/htoann/)**
 <!-- - ⚡-->
 
+<!-- console.log('Hello world!')
 <!-- <div align="center">
   <a href="https://github.com/hoangvu12">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+world!');&center=true&width=450&height=45"/>
@@ -45,16 +46,27 @@
 ## Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htoann&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=htoann&theme=react-dark"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=htoann&layout=compact&theme=radical&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=htoann&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 </div>
 
 <br>
+
+<details>
+  <summary>:zap: Top languages</summary> <br/>
+
+<!--START_SECTION:activity-->
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=htoann&layout=compact&theme=radical&langs_count=10" />
+</div>
+<!--END_SECTION:activity-->
+
+</details>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary> <br/>
