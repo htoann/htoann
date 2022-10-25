@@ -1,25 +1,23 @@
-<!-- <h1 align="center"> Hi, there </h1> -->
-
-<!-- Info -->
 <!-- <a href="#">
   <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32px"/>
 </a> -->
 
-<!-- <a href="https://open.spotify.com/user/ka299q14mdjilnbeepo3x58um">
-  <img align="left" alt="Abhishek's Spotify" width="26px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a> -->
+### Hi fellows 👋
 
-</br>
+- 🔭 I'm currently 3nd year student at DTU - Duy Tan University
+- 💬 Ask me about every thing
+- 📫 How to reach me: [Facebook](https://www.facebook.com/htoann/)
+<!-- - ⚡-->
 
 <!-- <div align="center">
   <a href="https://github.com/hoangvu12">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;Also+a+self-taught+developer;Always+looking+for+new+things+to+learn&center=true&width=450&height=45"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+world!');&center=true&width=450&height=45"/>
   </a>
 </div> -->
 
 <div align="center">
-  <a href="https://github.com/hoangvu12">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+world!');&center=true&width=450&height=45"/>
+  <a href="https://github.com/htoann">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;I'm+currently+3nd+year+student+at+DTU;Always+looking+for+new+things+to+learn&center=true&width=450&height=45"/>
   </a>
 </div>
 
