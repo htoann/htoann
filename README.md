@@ -3,13 +3,12 @@
 </a> -->
 
 - 👋 Hi, I’m Toan
-- 👀 I’m interested in playing guitar
+- ⚽ I’m interested in playing guitar and football
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I'm looking to collaborate with anyone I can
 - 📫 How to reach me: **[Facebook](https://www.facebook.com/htoann/)**
 <!-- - ⚡-->
 
-<!-- console.log('Hello world!')
 <!-- <div align="center">
   <a href="https://github.com/hoangvu12">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log('Hello+world!');&center=true&width=450&height=45"/>
@@ -43,22 +42,25 @@
 </div>
 </br> -->
 
-## Github Stats
+
+
+<details>
+  <summary>:dizzy: Github Stats</summary> <br/>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=htoann&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</div>
+  
+</br>
 
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=htoann&theme=react-dark"/>
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htoann&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</div>
-
-<br>
+</details>
 
 <details>
-  <summary>:zap: Top languages</summary> <br/>
+  <summary>:dart: Top languages</summary> <br/>
 
 <!--START_SECTION:activity-->
 <div align="center">
@@ -69,7 +71,7 @@
 </details>
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary> <br/>
+  <summary>:octocat: Recent GitHub Activity</summary> <br/>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#3](https://github.com/letronghoangminh/Sgroup-BE/issues/3) in [letronghoangminh/Sgroup-BE](https://github.com/letronghoangminh/Sgroup-BE)
