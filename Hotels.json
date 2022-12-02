@@ -1,219 +1,648 @@
+// 20221202164025
+// https://bookings.up.railway.app/api/hotels
+
 [
-    {
-        "_id": "6360ed35641f3df2dce2bc72",
-        "title": "Mövenpick Resort Waverly Phu Quoc",
-        "type": "resorts",
-        "desc": "Located in Phú Quốc, a 4-minute walk from Ong Lang Beach, Mövenpick Resort Waverly Phu Quoc has accommodations with a restaurant, free private parking, free bikes and an outdoor swimming pool. Among the various facilities of this property are a fitness center, a bar and a garden. The property provides a 24-hour front desk, room service and currency exchange for guests. Free WiFi is accessible to all guests, while certain rooms contain a patio. The resort offers a buffet or American breakfast. Mövenpick Resort Waverly Phu Quoc has a sun terrace. The area is popular for cycling, and car rental is available at the accommodation. Vinpearl Land Phu Quoc is 11.6 km from Mövenpick Resort Waverly Phu Quoc, while Corona Casino is 11.7 km from the property. The nearest airport is Phu Quoc International, 17.7 km from the resort, and the property offers a free airport shuttle service.",
-        "descShort": "Superior King Room with Balcony and Garden View",
-        "city": "phuquoc",
-        "address": "Ong Lang Hamlet Cua Duong Village Phu Quoc District, Ong Lang, 92000 Phu Quoc, Vietnam",
-        "distance": "5",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1666869706/259394005_eku9al.jpg",
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
-        ],
-        "cheapestPrice": 1890,
-        "featured": false,
-        "rating": 4,
-        "score": 8.6,
-        "rooms": [
-            "6360f02864ec9fc1b2c275d9",
-            "6360f03b64ec9fc1b2c275df"
-        ],
-        "__v": 0,
-        "name": "Resort Phu Quoc"
+  {
+    "_id": "6360ed35641f3df2dce2bc72",
+    "title": "Mövenpick Resort Waverly Phu Quoc",
+    "type": "resorts",
+    "desc": "Located in Phú Quốc, a 4-minute walk from Ong Lang Beach, Mövenpick Resort Waverly Phu Quoc has accommodations with a restaurant, free private parking, free bikes and an outdoor swimming pool. Among the various facilities of this property are a fitness center, a bar and a garden. The property provides a 24-hour front desk, room service and currency exchange for guests. Free WiFi is accessible to all guests, while certain rooms contain a patio. The resort offers a buffet or American breakfast. Mövenpick Resort Waverly Phu Quoc has a sun terrace. The area is popular for cycling, and car rental is available at the accommodation. Vinpearl Land Phu Quoc is 11.6 km from Mövenpick Resort Waverly Phu Quoc, while Corona Casino is 11.7 km from the property. The nearest airport is Phu Quoc International, 17.7 km from the resort, and the property offers a free airport shuttle service.",
+    "descShort": "Superior King Room with Balcony and Garden View",
+    "city": "phuquoc",
+    "address": {
+      "name": "26 Thi Sach, District 1, Ho Chi Minh City, Vietnam",
+      "lat": 10.282022,
+      "lng": 103.923087,
+      "_id": "636721e76119a277013bb318"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc75",
-        "title": "Raon Dalat",
-        "type": "hotels",
-        "desc": "Located in Da Lat, 1.9 km from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace. This 3-star hotel offers room service and a concierge service. The property has a 24-hour front desk, airport transportation, a shared kitchen and free WiFi throughout the property. At the hotel, every room includes a desk. Rooms come complete with a private bathroom equipped with a bidet and slippers, while some units at Raon Dalat also provide guests with a seating area. All guest rooms feature a shared bathroom, a hairdryer and bed linen. The area is popular for hiking and cycling, and car rental is available at the accommodation. Dalat Flower Gardens is 2.4 km from Raon Dalat, while Xuan Huong Lake is 4.2 km away. The nearest airport is Lien Khuong Airport, 32.2 km from the hotel.",
-        "descShort": "Located in Da Lat, 1.2 miles from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace.",
-        "city": "dalat",
-        "address": "46 Tran Khanh Du, Ward 8, Da Lat, Vietnam",
-        "distance": "3",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp",
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp"
-        ],
-        "cheapestPrice": 998,
-        "featured": false,
-        "rating": 4.4,
-        "score": 9,
-        "rooms": [
-            "6360f04964ec9fc1b2c275e5",
-            "6360f04d64ec9fc1b2c275eb"
-        ],
-        "__v": 0,
-        "name": "Hotel Da Lat"
+    "distance": "5",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1666869706/259394005_eku9al.jpg",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
+    ],
+    "cheapestPrice": 1890,
+    "featured": false,
+    "rating": 4,
+    "score": 8.6,
+    "rooms": [
+      "6360f02864ec9fc1b2c275d9",
+      "6360f03b64ec9fc1b2c275df",
+      "637f7c324000eb0cc96bd90b",
+      "637f7c78a36f5eb22c8f6884"
+    ],
+    "__v": 0,
+    "name": "Resort Phu Quoc",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "published": true
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc75",
+    "title": "Raon Dalat",
+    "type": "hotels",
+    "desc": "Located in Da Lat, 1.9 km from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace. This 3-star hotel offers room service and a concierge service. The property has a 24-hour front desk, airport transportation, a shared kitchen and free WiFi throughout the property. At the hotel, every room includes a desk. Rooms come complete with a private bathroom equipped with a bidet and slippers, while some units at Raon Dalat also provide guests with a seating area. All guest rooms feature a shared bathroom, a hairdryer and bed linen. The area is popular for hiking and cycling, and car rental is available at the accommodation. Dalat Flower Gardens is 2.4 km from Raon Dalat, while Xuan Huong Lake is 4.2 km away. The nearest airport is Lien Khuong Airport, 32.2 km from the hotel.",
+    "descShort": "Located in Da Lat, 1.2 miles from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace.",
+    "city": "dalat",
+    "address": {
+      "name": "46 Tran Khanh Du, Ward 8, Da Lat, Vietnam",
+      "lat": 11.962284,
+      "lng": 108.440367,
+      "_id": "636722396119a277013bb31b"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc76",
-        "title": "Prostyle Hotel Ho Chi Minh プロスタイルホテルホーチミン",
-        "type": "hotels",
-        "desc": "Conveniently located in Ho Chi Minh city center, Prostyle Hotel Ho Chi Minh provides contemporary accommodations in District 1. Featuring an on-site restaurant, the hotel also has a sauna room and business center. Saigon Opera House, City Hall and Vincom Center B shopping mall are within 3-minute walk from the property. Noter Dame Cathedral, Ho Chi Minh City Museum and Reunification Palace are within 10-minute walk. Tan Son Nhat International Airport is 24-minute drive from Prostyle Hotel Ho Chi Minh. Featuring free WiFi access, all rooms are furnished with air conditioning, a seating area with desk and personal safe. A satellite TV and mini-bar are provided. Private bathroom in each room has a bathtub or shower, hairdryer and free toiletries. Extras include bathrobes and slippers for your convenience. The hotel operates a 24-hour front desk where bilingual staff can assist with currency exchange, luggage storage and express check-in or check-out. Car rental, airport transfers, shuttle services and day trips can be arranged at the tour desk. Free private parking is possible on site. Boasting stylish decor, the in-house restaurant serves an array of Vietnamese and international dishes, while the bar has a wide ranges of drinks and beverages. This is our guests' favorite part of Ho Chi Minh City, according to independent reviews.",
-        "descShort": "Conveniently located in Ho Chi Minh city center, Prostyle Hotel Ho Chi Minh provides contemporary accommodations in District 1.",
-        "city": "hochiminh",
-        "address": "26 Thi Sach, District 1, Ho Chi Minh City, Vietnam",
-        "distance": "8",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp",
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp"
-        ],
-        "cheapestPrice": 790,
-        "featured": false,
-        "rating": 4.2,
-        "score": 8,
-        "rooms": [
-            "6360f05f64ec9fc1b2c275f1",
-            "6360f06364ec9fc1b2c275f7"
-        ],
-        "__v": 0,
-        "name": "Hotel Ho Chi Minh"
+    "distance": "3",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp"
+    ],
+    "cheapestPrice": 998,
+    "featured": false,
+    "rating": 4.4,
+    "score": 9,
+    "rooms": [
+      "6360f04964ec9fc1b2c275e5",
+      "6360f04d64ec9fc1b2c275eb"
+    ],
+    "__v": 0,
+    "name": "Hotel Da Lat",
+    "published": true,
+    "updatedAt": "2022-11-30T05:24:29.188Z"
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc76",
+    "title": "Prostyle Hotel Ho Chi Minh プロスタイルホテルホーチミン",
+    "type": "hotels",
+    "desc": "Conveniently located in Ho Chi Minh city center, Prostyle Hotel Ho Chi Minh provides contemporary accommodations in District 1. Featuring an on-site restaurant, the hotel also has a sauna room and business center. Saigon Opera House, City Hall and Vincom Center B shopping mall are within 3-minute walk from the property. Noter Dame Cathedral, Ho Chi Minh City Museum and Reunification Palace are within 10-minute walk. Tan Son Nhat International Airport is 24-minute drive from Prostyle Hotel Ho Chi Minh. Featuring free WiFi access, all rooms are furnished with air conditioning, a seating area with desk and personal safe. A satellite TV and mini-bar are provided. Private bathroom in each room has a bathtub or shower, hairdryer and free toiletries. Extras include bathrobes and slippers for your convenience. The hotel operates a 24-hour front desk where bilingual staff can assist with currency exchange, luggage storage and express check-in or check-out. Car rental, airport transfers, shuttle services and day trips can be arranged at the tour desk. Free private parking is possible on site. Boasting stylish decor, the in-house restaurant serves an array of Vietnamese and international dishes, while the bar has a wide ranges of drinks and beverages. This is our guests' favorite part of Ho Chi Minh City, according to independent reviews.",
+    "descShort": "Conveniently located in Ho Chi Minh city center, Prostyle Hotel Ho Chi Minh provides contemporary accommodations in District 1.",
+    "city": "hochiminh",
+    "address": {
+      "name": "26 Thi Sach, District 1, Ho Chi Minh City, Vietnam",
+      "lat": 10.779053265843201,
+      "lng": 106.704136426264,
+      "_id": "636722b06119a277013bb31e"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc77",
-        "title": "Louis Mo Apartment",
-        "type": "apartments",
-        "desc": "Offering city views, Louis Mo Apartment in Danang has accommodations, free bikes, an outdoor swimming pool, a fitness center, a bar and a shared lounge. Complimentary WiFi is available throughout the property. All units here are air-conditioned and feature a flat-screen TV, a living room with a sofa, a well-equipped kitchen with a dining area, and a private bathroom with shower, slippers and a hairdryer. Some units feature a seating area and/or a patio. The apartment provides a laundry service, as well as business facilities like fax and photocopying. A sun terrace is available for guests to use at Louis Mo Apartment. My Khe Beach is a 5-minute walk from the accommodation, while Bac My An Beach is 1.1 km from the property. The nearest airport is Da Nang International Airport, 6 km from Louis Mo Apartment.",
-        "descShort": "Offering city views, Louis Mo Apartment in Danang has accommodations, free bikes, an outdoor swimming pool, a fitness center, a bar and a shared lounge.",
-        "city": "danang",
-        "address": "20 An Thượng 28, Danang, Vietnam",
-        "distance": "3",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667295365/351302984_pohevy.jpg",
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp"
-        ],
-        "cheapestPrice": 1120,
-        "featured": true,
-        "rating": 4.6,
-        "score": 9.1,
-        "rooms": [
-            "6360f07264ec9fc1b2c275fd",
-            "6360f07664ec9fc1b2c27603"
-        ],
-        "__v": 0,
-        "name": "Apartment Da Nang"
+    "distance": "8",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp"
+    ],
+    "cheapestPrice": 790,
+    "featured": false,
+    "rating": 4.2,
+    "score": 8,
+    "rooms": [
+      "6360f05f64ec9fc1b2c275f1",
+      "6360f06364ec9fc1b2c275f7",
+      "637f7b5601079efb74590a4b",
+      "637f7b8312463bf8b59d0eaf",
+      "637f7ba9258da80a8f0e3846"
+    ],
+    "__v": 0,
+    "name": "Hotel Ho Chi Minh",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "published": true
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc77",
+    "title": "Louis Mo Apartment",
+    "type": "apartments",
+    "desc": "Offering city views, Louis Mo Apartment in Danang has accommodations, free bikes, an outdoor swimming pool, a fitness center, a bar and a shared lounge. Complimentary WiFi is available throughout the property. All units here are air-conditioned and feature a flat-screen TV, a living room with a sofa, a well-equipped kitchen with a dining area, and a private bathroom with shower, slippers and a hairdryer. Some units feature a seating area and/or a patio. The apartment provides a laundry service, as well as business facilities like fax and photocopying. A sun terrace is available for guests to use at Louis Mo Apartment. My Khe Beach is a 5-minute walk from the accommodation, while Bac My An Beach is 1.1 km from the property. The nearest airport is Da Nang International Airport, 6 km from Louis Mo Apartment.",
+    "descShort": "Offering city views, Louis Mo Apartment in Danang has accommodations, free bikes, an outdoor swimming pool, a fitness center, a bar and a shared lounge.",
+    "city": "danang",
+    "address": {
+      "name": "20 An Thượng 28, Danang, Vietnam",
+      "lat": 16.05307384341931,
+      "lng": 108.24562028112543,
+      "_id": "636722f26119a277013bb321"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc78",
-        "title": "Pao's Sapa Leisure Hotel",
-        "type": "hotels",
-        "desc": "Located in Sapa, 6.1 km from Fansipan Legend Cable Car Station, Pao's Sapa Leisure Hotel provides accommodations with a restaurant, free private parking, a fitness center and a bar. With free WiFi, this 5-star hotel offers a kids' club and a shared lounge. The property has a 24-hour front desk, room service and currency exchange for guests. Each room is equipped with air conditioning, a safety deposit box and a flat-screen TV, and certain rooms at the hotel have a balcony. Pao's Sapa Leisure Hotel offers a continental or buffet breakfast. The accommodation offers 5-star accommodations with an indoor pool and terrace. You can play pool at Pao's Sapa Leisure Hotel, and the area is popular for cycling. Popular points of interest near the hotel include Sa Pa Lake, Sa Pa Stone Church and Sa Pa Bus Station. The nearest airport is Dien Bien Phu Airport, 268.8 km from Pao's Sapa Leisure Hotel.",
-        "descShort": "Located in Sapa, 3.8 miles from Fansipan Legend Cable Car Station, Pao's Sapa Leisure Hotel provides accommodations with a restaurant, free private parking, a fitness center and a bar.",
-        "city": "sapa",
-        "address": "Muong Hoa Street, Sapa Town, Sapa District, Lao Cai Province, Sapa, Vietnam",
-        "distance": "11",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
-        ],
-        "cheapestPrice": 849,
-        "featured": true,
-        "rating": 4.5,
-        "score": 8.9,
-        "rooms": [
-            "6360f08264ec9fc1b2c27609",
-            "6360f08664ec9fc1b2c2760f"
-        ],
-        "__v": 0,
-        "name": "Hotel Sapa"
+    "distance": "3",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295365/351302984_pohevy.jpg",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp"
+    ],
+    "cheapestPrice": 1120,
+    "featured": true,
+    "rating": 4.6,
+    "score": 9.1,
+    "rooms": [
+      "6360f07264ec9fc1b2c275fd",
+      "6360f07664ec9fc1b2c27603",
+      "637f7bbb258da80a8f0e384d",
+      "637f7bec7ffc7261e0918ae2",
+      "637f7c244000eb0cc96bd904"
+    ],
+    "__v": 0,
+    "name": "Apartment Da Nang",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "published": true
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc78",
+    "title": "Pao's Sapa Leisure Hotel",
+    "type": "hotels",
+    "desc": "Located in Sapa, 6.1 km from Fansipan Legend Cable Car Station, Pao's Sapa Leisure Hotel provides accommodations with a restaurant, free private parking, a fitness center and a bar. With free WiFi, this 5-star hotel offers a kids' club and a shared lounge. The property has a 24-hour front desk, room service and currency exchange for guests. Each room is equipped with air conditioning, a safety deposit box and a flat-screen TV, and certain rooms at the hotel have a balcony. Pao's Sapa Leisure Hotel offers a continental or buffet breakfast. The accommodation offers 5-star accommodations with an indoor pool and terrace. You can play pool at Pao's Sapa Leisure Hotel, and the area is popular for cycling. Popular points of interest near the hotel include Sa Pa Lake, Sa Pa Stone Church and Sa Pa Bus Station. The nearest airport is Dien Bien Phu Airport, 268.8 km from Pao's Sapa Leisure Hotel.",
+    "descShort": "Located in Sapa, 3.8 miles from Fansipan Legend Cable Car Station, Pao's Sapa Leisure Hotel provides accommodations with a restaurant, free private parking, a fitness center and a bar.",
+    "city": "sapa",
+    "address": {
+      "name": "Muong Hoa Street, Sapa Town, Sapa District, Lao Cai Province, Sapa, Vietnam",
+      "lat": 22.326887,
+      "lng": 103.846832,
+      "_id": "636723326119a277013bb324"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc79",
-        "title": "Navada Beach Hotel",
-        "type": "hotels",
-        "desc": "Located in Nha Trang, a few steps from Hon Chong Beach, Navada Beach Hotel has accommodations with a restaurant, free private parking, an outdoor swimming pool and a fitness center. With free WiFi, this 4-star hotel has a bar and a shared lounge. The property provides a 24-hour front desk, room service and currency exchange for guests. The hotel will provide guests with air-conditioned rooms with a desk, an electric tea pot, a fridge, a minibar, a safety deposit box, a flat-screen TV and a private bathroom with a bidet. At Navada Beach Hotel rooms come with bed linen and towels. The accommodation offers a continental or buffet breakfast. Navada Beach Hotel has a terrace. Popular points of interest near the hotel include Ba Lang Beach, Hon Chong and Po Nagar Cham Towers. The nearest airport is Cam Ranh International, 40.2 km from Navada Beach Hotel, and the property offers a paid airport shuttle service.",
-        "descShort": "Located in Nha Trang, a few steps from Hon Chong Beach, Navada Beach Hotel has accommodations with a restaurant, free private parking, an outdoor swimming pool and a fitness center.",
-        "city": "nhatrang",
-        "address": "09-10 Phạm Văn Đồng, Vĩnh Hải, Thành phố Nha Trang, Khánh Hòa, 650000 Nha Trang, Vietnam",
-        "distance": "3",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667058888/286495131_ahvgug.webp",
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
-        ],
-        "cheapestPrice": 911,
-        "featured": false,
-        "rating": 4.2,
-        "score": 8.8,
-        "rooms": [
-            "6360f09564ec9fc1b2c27615",
-            "6360f09964ec9fc1b2c2761b"
-        ],
-        "__v": 0,
-        "name": "Hotel Nha Trang"
+    "distance": "11",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
+    ],
+    "cheapestPrice": 849,
+    "featured": true,
+    "rating": 4.5,
+    "score": 8.9,
+    "rooms": [
+      "6360f08264ec9fc1b2c27609",
+      "6360f08664ec9fc1b2c2760f"
+    ],
+    "__v": 0,
+    "name": "Hotel Sapa",
+    "published": true,
+    "updatedAt": "2022-11-30T05:24:29.188Z"
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc79",
+    "title": "Navada Beach Hotel",
+    "type": "hotels",
+    "desc": "Located in Nha Trang, a few steps from Hon Chong Beach, Navada Beach Hotel has accommodations with a restaurant, free private parking, an outdoor swimming pool and a fitness center. With free WiFi, this 4-star hotel has a bar and a shared lounge. The property provides a 24-hour front desk, room service and currency exchange for guests. The hotel will provide guests with air-conditioned rooms with a desk, an electric tea pot, a fridge, a minibar, a safety deposit box, a flat-screen TV and a private bathroom with a bidet. At Navada Beach Hotel rooms come with bed linen and towels. The accommodation offers a continental or buffet breakfast. Navada Beach Hotel has a terrace. Popular points of interest near the hotel include Ba Lang Beach, Hon Chong and Po Nagar Cham Towers. The nearest airport is Cam Ranh International, 40.2 km from Navada Beach Hotel, and the property offers a paid airport shuttle service.",
+    "descShort": "Located in Nha Trang, a few steps from Hon Chong Beach, Navada Beach Hotel has accommodations with a restaurant, free private parking, an outdoor swimming pool and a fitness center.",
+    "city": "nhatrang",
+    "address": {
+      "name": "09-10 Phạm Văn Đồng, Vĩnh Hải, Thành phố Nha Trang, Khánh Hòa, 650000 Nha Trang, Vietnam",
+      "lat": 12.27597,
+      "lng": 109.201937,
+      "_id": "6367238c6119a277013bb327"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc7a",
-        "title": "Melia Vinpearl Hue",
-        "type": "hotels",
-        "desc": "Featuring a fitness center, bar and views of city, Melia Vinpearl Hue is located in Hue, a 9-minute walk from Trang Tien Bridge. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi throughout the property. The property has a concierge service, and currency exchange for guests. The rooms are equipped with air conditioning and a flat-screen TV, and some rooms at the hotel have a safety deposit box. All rooms will provide guests with a fridge. A continental breakfast is available every morning at Melia Vinpearl Hue. Popular points of interest near the accommodation include Dong Ba Market, Museum of Royal Antiquities and An Dinh Palace. The nearest airport is Phu Bai International, 15 km from Melia Vinpearl Hue, and the property offers a paid airport shuttle service. This is our guests' favorite part of Hue, according to independent reviews.",
-        "descShort": "Featuring a fitness center, bar and views of city, Melia Vinpearl Hue is located in Hue, a 9-minute walk from Trang Tien Bridge.",
-        "city": "hue",
-        "address": "09-10 Phạm Văn Đồng, Vĩnh Hải, Thành phố Nha Trang, Khánh Hòa, 650000 Nha Trang, Vietnam",
-        "distance": "2",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg",
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
-        ],
-        "cheapestPrice": 681,
-        "featured": true,
-        "rating": 4.7,
-        "score": 9.1,
-        "rooms": [
-            "6360f0a664ec9fc1b2c27621",
-            "6360f0aa64ec9fc1b2c27627",
-            "6360f0b464ec9fc1b2c2762d"
-        ],
-        "__v": 0,
-        "name": "Hotel Hue"
+    "distance": "3",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058888/286495131_ahvgug.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
+    ],
+    "cheapestPrice": 911,
+    "featured": false,
+    "rating": 4.2,
+    "score": 8.8,
+    "rooms": [
+      "6360f09564ec9fc1b2c27615",
+      "6360f09964ec9fc1b2c2761b"
+    ],
+    "__v": 0,
+    "name": "Hotel Nha Trang",
+    "published": true,
+    "updatedAt": "2022-11-30T05:24:29.188Z"
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc7a",
+    "title": "Melia Vinpearl Hue",
+    "type": "hotels",
+    "desc": "Featuring a fitness center, bar and views of city, Melia Vinpearl Hue is located in Hue, a 9-minute walk from Trang Tien Bridge. Among the facilities of this property are a restaurant, a 24-hour front desk and room service, along with free WiFi throughout the property. The property has a concierge service, and currency exchange for guests. The rooms are equipped with air conditioning and a flat-screen TV, and some rooms at the hotel have a safety deposit box. All rooms will provide guests with a fridge. A continental breakfast is available every morning at Melia Vinpearl Hue. Popular points of interest near the accommodation include Dong Ba Market, Museum of Royal Antiquities and An Dinh Palace. The nearest airport is Phu Bai International, 15 km from Melia Vinpearl Hue, and the property offers a paid airport shuttle service. This is our guests' favorite part of Hue, according to independent reviews.",
+    "descShort": "Featuring a fitness center, bar and views of city, Melia Vinpearl Hue is located in Hue, a 9-minute walk from Trang Tien Bridge.",
+    "city": "hue",
+    "address": {
+      "name": "50A Hùng Vương, Phú Nhuận, Thành phố Huế, Thừa Thiên Huế",
+      "lat": 16.463305,
+      "lng": 107.594076,
+      "_id": "636723f96119a277013bb32a"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc73",
-        "title": "Eco Lux Riverside Hotel & Spa",
-        "type": "hotels",
-        "desc": "Located in Hoi An, 2.4 km from Japanese Covered Bridge, Eco Lux Riverside Hotel & Spa has accommodations with a restaurant, free private parking, an outdoor swimming pool and a fitness center. Each room at the 4-star hotel has garden views, and guests can enjoy access to a bar and to a garden. The property provides a 24-hour front desk, room service and currency exchange for guests. At the hotel the rooms have air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. Every room is equipped with an electric tea pot, while some rooms also feature a balcony and others also feature pool views. At Eco Lux Riverside Hotel & Spa rooms have bed linen and towels. A buffet breakfast is available each morning at the accommodation. Eco Lux Riverside Hotel & Spa has a grill. The area is popular for cycling, and car rental is available at the hotel. Hoi An Historic Museum is 2.7 km from Eco Lux Riverside Hotel & Spa, while Assembly Hall of Chaozhou Chinese Congregation is 3.2 km from the property. The nearest airport is Da Nang International, 27.4 km from the accommodation, and the property offers a paid airport shuttle service. Couples in particular like the location – they rated it 8.5 for a two-person trip. Eco Lux Riverside Hotel & Spa has been welcoming Booking.com guests since 15 Sep 2019 Distance in property description is calculated using © OpenStreetMap",
-        "descShort": "Superior Double or Twin Room with City View",
-        "city": "hoian",
-        "address": "316 Hung Vuong street, Thanh Ha, Hoian, Thanh Ha, Hoi An, Vietnam",
-        "distance": "2",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1666870144/234141857_oft318.jpg"
-        ],
-        "cheapestPrice": 693,
-        "featured": true,
-        "rating": 4,
-        "score": 9.2,
-        "rooms": [
-            "6360f0c864ec9fc1b2c27633",
-            "6360f0cd64ec9fc1b2c27639",
-            "6360f0d064ec9fc1b2c2763f"
-        ],
-        "__v": 0,
-        "name": "Hotel Hoi An"
+    "distance": "2",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
+    ],
+    "cheapestPrice": 681,
+    "featured": true,
+    "rating": 4.7,
+    "score": 9.1,
+    "rooms": [
+      "6360f0a664ec9fc1b2c27621",
+      "6360f0aa64ec9fc1b2c27627",
+      "6360f0b464ec9fc1b2c2762d"
+    ],
+    "__v": 0,
+    "name": "Hotel Hue",
+    "published": true,
+    "updatedAt": "2022-11-30T05:24:29.188Z"
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc73",
+    "title": "Eco Lux Riverside Hotel & Spa",
+    "type": "hotels",
+    "desc": "Located in Hoi An, 2.4 km from Japanese Covered Bridge, Eco Lux Riverside Hotel & Spa has accommodations with a restaurant, free private parking, an outdoor swimming pool and a fitness center. Each room at the 4-star hotel has garden views, and guests can enjoy access to a bar and to a garden. The property provides a 24-hour front desk, room service and currency exchange for guests. At the hotel the rooms have air conditioning, a seating area, a flat-screen TV with satellite channels, a safety deposit box and a private bathroom with a shower, bathrobes and slippers. Every room is equipped with an electric tea pot, while some rooms also feature a balcony and others also feature pool views. At Eco Lux Riverside Hotel & Spa rooms have bed linen and towels. A buffet breakfast is available each morning at the accommodation. Eco Lux Riverside Hotel & Spa has a grill. The area is popular for cycling, and car rental is available at the hotel. Hoi An Historic Museum is 2.7 km from Eco Lux Riverside Hotel & Spa, while Assembly Hall of Chaozhou Chinese Congregation is 3.2 km from the property. The nearest airport is Da Nang International, 27.4 km from the accommodation, and the property offers a paid airport shuttle service. Couples in particular like the location – they rated it 8.5 for a two-person trip. Eco Lux Riverside Hotel & Spa has been welcoming Booking.com guests since 15 Sep 2019 Distance in property description is calculated using © OpenStreetMap",
+    "descShort": "Superior Double or Twin Room with City View",
+    "city": "hoian",
+    "address": {
+      "name": "316 Hung Vuong street, Thanh Ha, Hoian, Thanh Ha, Hoi An, Vietnam",
+      "lat": 15.879398477620656,
+      "lng": 108.3061913414378,
+      "_id": "636724406119a277013bb32d"
     },
-    {
-        "_id": "6360ed35641f3df2dce2bc74",
-        "title": "Myrtle Beach Villas II - 301B",
-        "type": "villas",
-        "desc": "Located 1.8 km from Myrtle Beach Boardwalk in Myrtle Beach, Myrtle Beach Villas II - 301B provides accommodations with air conditioning and free WiFi. Some of the units feature cable TV, a fully equipped kitchen with a dishwasher, and a private bathroom with a hot tub and a hairdryer. If you would like to discover the area, cycling is possible nearby. Myrtle Beach Convention Center is 4.3 km from the vacation home, while The Market Common is 6.6 km away. The nearest airport is Myrtle Beach International Airport, 5 km from Myrtle Beach Villas II - 301B.",
-        "descShort": "Located a 13-minute walk from Myrtle Beach in Myrtle Beach, Myrtle Beach Villas II - 301B provides accommodations with air conditioning and free WiFi.",
-        "city": "newyork",
-        "address": "Myrtle Beach, 29577, United States of America",
-        "distance": "10",
-        "photos": [
-            "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
-        ],
-        "cheapestPrice": 111807,
-        "featured": true,
-        "rating": 4.8,
-        "score": 9.2,
-        "rooms": [
-            "6360f0de64ec9fc1b2c27645",
-            "6360f0e164ec9fc1b2c2764b",
-            "6360f0e464ec9fc1b2c27651",
-            "636135ca381961f151cc53d2"
-        ],
-        "__v": 0,
-        "name": "Villa New York"
-    }
+    "distance": "2",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1666870144/234141857_oft318.jpg"
+    ],
+    "cheapestPrice": 693,
+    "featured": true,
+    "rating": 4,
+    "score": 9.2,
+    "rooms": [
+      "6360f0c864ec9fc1b2c27633",
+      "6360f0cd64ec9fc1b2c27639",
+      "6360f0d064ec9fc1b2c2763f"
+    ],
+    "__v": 0,
+    "name": "Hotel Hoi An",
+    "published": true,
+    "updatedAt": "2022-11-30T05:24:29.188Z"
+  },
+  {
+    "_id": "6360ed35641f3df2dce2bc74",
+    "title": "Myrtle Beach Villas II - 301B",
+    "type": "villas",
+    "desc": "Located 1.8 km from Myrtle Beach Boardwalk in Myrtle Beach, Myrtle Beach Villas II - 301B provides accommodations with air conditioning and free WiFi. Some of the units feature cable TV, a fully equipped kitchen with a dishwasher, and a private bathroom with a hot tub and a hairdryer. If you would like to discover the area, cycling is possible nearby. Myrtle Beach Convention Center is 4.3 km from the vacation home, while The Market Common is 6.6 km away. The nearest airport is Myrtle Beach International Airport, 5 km from Myrtle Beach Villas II - 301B.",
+    "descShort": "Located a 13-minute walk from Myrtle Beach in Myrtle Beach, Myrtle Beach Villas II - 301B provides accommodations with air conditioning and free WiFi.",
+    "city": "newyork",
+    "address": {
+      "name": "Myrtle Beach, 29577, United States of America",
+      "lat": 33.689061,
+      "lng": -78.886694,
+      "_id": "636724986119a277013bb330"
+    },
+    "distance": "10",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
+    ],
+    "cheapestPrice": 111807,
+    "featured": true,
+    "rating": 4.8,
+    "score": 9.2,
+    "rooms": [
+      "6360f0de64ec9fc1b2c27645",
+      "6360f0e164ec9fc1b2c2764b",
+      "6360f0e464ec9fc1b2c27651",
+      "636135ca381961f151cc53d2"
+    ],
+    "__v": 0,
+    "name": "Villa New York",
+    "published": true,
+    "updatedAt": "2022-11-30T05:24:29.188Z"
+  },
+  {
+    "_id": "636bc82bd19a17203498aadc",
+    "title": "Suite Home Sagrada Familia",
+    "name": "Apartment Spain",
+    "type": "apartments",
+    "desc": "Located on tree-lined Gaudí Avenue, Suite Home Barcelona is just 250 m from the Sagrada Familia cathedral. Some apartments offer views of Barcelona’s famous monument. All apartments are fully-equipped and air-conditioned (in Two-Bedroom Apartment (4 Adults) there is no AC, just heating, in summer portable air conditioner and fans are provided). Free Wi-fi is available. The stylish apartments have parquet flooring and contemporary furniture. The spacious living and dining area is equipped with a flat-screen TV, and CD player. A free safe is also provided. The kitchen features an electric hob, oven, dishwasher and microwave. A washing machine and ironing facilities are also included. Suite Home’s luxury apartments are within walking distance of several cafés, restaurants and supermarkets. This is our guests' favorite part of Barcelona, according to independent reviews.",
+    "descShort": "Situated on tree-lined Gaudí Avenue, Suite Home Barcelona is just 250 m from the Sagrada Familia cathedral. Some apartments offer views of Barcelona’s famous monument.",
+    "city": "barcelona",
+    "address": {
+      "name": "Avenida Gaudí, 28, Eixample, 08025 Barcelona, Spain",
+      "lat": 42.755364294872074,
+      "lng": -3.4568272158264826,
+      "_id": "636bc82bd19a17203498aadd"
+    },
+    "distance": "10",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
+    ],
+    "cheapestPrice": 2563,
+    "featured": false,
+    "rating": 4.8,
+    "score": 9.2,
+    "rooms": [
+      "6360f0de64ec9fc1b2c27645",
+      "6360f0e164ec9fc1b2c2764b",
+      "6360f0e464ec9fc1b2c27651",
+      "636135ca381961f151cc53d2"
+    ],
+    "createdAt": "2022-11-09T15:32:59.205Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc82bd19a17203498aada",
+    "title": "Hotel des Nations Saint Germain",
+    "name": "Hotel Paris",
+    "type": "hotels",
+    "desc": "Located in Da Lat, 1.9 km from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace. This 3-star hotel offers room service and a concierge service. The property has a 24-hour front desk, airport transportation, a shared kitchen and free WiFi throughout the property. At the hotel, every room includes a desk. Rooms come complete with a private bathroom equipped with a bidet and slippers, while some units at Raon Dalat also provide guests with a seating area. All guest rooms feature a shared bathroom, a hairdryer and bed linen. The area is popular for hiking and cycling, and car rental is available at the accommodation. Dalat Flower Gardens is 2.4 km from Raon Dalat, while Xuan Huong Lake is 4.2 km away. The nearest airport is Lien Khuong Airport, 32.2 km from the hotel.",
+    "descShort": "Located in Da Lat, 1.2 miles from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace.",
+    "city": "paris",
+    "address": {
+      "name": "54 rue Monge, 05. Pantheon - Saint-Michel, 75005 Paris, Paris",
+      "lat": 49.12253146954712,
+      "lng": -6.126223487361484,
+      "_id": "636bc82bd19a17203498aadb"
+    },
+    "distance": "3",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp"
+    ],
+    "cheapestPrice": 566,
+    "featured": false,
+    "rating": 4.4,
+    "score": 9,
+    "rooms": [
+      "6360f04964ec9fc1b2c275e5",
+      "6360f04d64ec9fc1b2c275eb"
+    ],
+    "createdAt": "2022-11-09T15:32:59.205Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc82bd19a17203498aade",
+    "title": "Palazzo Delle Pietre - Luxury Apartments",
+    "name": "Apartment Rome",
+    "type": "apartments",
+    "desc": "Located in Rome, near Piazza Navona, Trevi Fountain and Largo di Torre Argentina, Palazzo Delle Pietre - Luxury Apartments features free WiFi. The air-conditioned units feature a living room with a flat-screen TV, a kitchen with a dishwasher and a microwave, a washing machine, a safety deposit box, and a private bathroom with bathrobes and slippers. There's a seating and/or dining area in some units. A gym and laundry facilities are available at the condo hotel. A bicycle rental service is available at Palazzo Delle Pietre - Luxury Apartments. Popular points of interest near the accommodation include Pantheon, Palazzo Venezia and Castel Sant'Angelo. The nearest airport is Rome Ciampino, 17.7 km from Palazzo Delle Pietre - Luxury Apartments, and the property offers a paid airport shuttle service. This is our guests' favorite part of Rome, according to independent reviews.",
+    "descShort": "Set in Rome, near Piazza Navona, Trevi Fountain and Largo di Torre Argentina, Palazzo Delle Pietre - Luxury Apartments features free WiFi.",
+    "city": "rome",
+    "address": {
+      "name": "Via delle Coppelle 23, Pantheon, 00186 Rome, Italy",
+      "lat": 41.855658300794516,
+      "lng": 12.232674213697553,
+      "_id": "636bc82bd19a17203498aadf"
+    },
+    "distance": "2",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
+    ],
+    "cheapestPrice": 912,
+    "featured": false,
+    "rating": 4.7,
+    "score": 9.1,
+    "rooms": [
+      "6360f0a664ec9fc1b2c27621",
+      "6360f0aa64ec9fc1b2c27627",
+      "6360f0b464ec9fc1b2c2762d"
+    ],
+    "createdAt": "2022-11-09T15:32:59.205Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc82fd19a17203498aaea",
+    "title": "Palazzo Delle Pietre - Luxury Apartments",
+    "name": "Apartment Rome",
+    "type": "apartments",
+    "desc": "Located in Rome, near Piazza Navona, Trevi Fountain and Largo di Torre Argentina, Palazzo Delle Pietre - Luxury Apartments features free WiFi. The air-conditioned units feature a living room with a flat-screen TV, a kitchen with a dishwasher and a microwave, a washing machine, a safety deposit box, and a private bathroom with bathrobes and slippers. There's a seating and/or dining area in some units. A gym and laundry facilities are available at the condo hotel. A bicycle rental service is available at Palazzo Delle Pietre - Luxury Apartments. Popular points of interest near the accommodation include Pantheon, Palazzo Venezia and Castel Sant'Angelo. The nearest airport is Rome Ciampino, 17.7 km from Palazzo Delle Pietre - Luxury Apartments, and the property offers a paid airport shuttle service. This is our guests' favorite part of Rome, according to independent reviews.",
+    "descShort": "Set in Rome, near Piazza Navona, Trevi Fountain and Largo di Torre Argentina, Palazzo Delle Pietre - Luxury Apartments features free WiFi.",
+    "city": "rome",
+    "address": {
+      "name": "Via delle Coppelle 23, Pantheon, 00186 Rome, Italy",
+      "lat": 41.855658300794516,
+      "lng": 12.232674213697553,
+      "_id": "636bc82fd19a17203498aaeb"
+    },
+    "distance": "2",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
+    ],
+    "cheapestPrice": 912,
+    "featured": false,
+    "rating": 4.7,
+    "score": 9.1,
+    "rooms": [
+      "6360f0a664ec9fc1b2c27621",
+      "6360f0aa64ec9fc1b2c27627",
+      "6360f0b464ec9fc1b2c2762d"
+    ],
+    "createdAt": "2022-11-09T15:33:03.991Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc82fd19a17203498aae8",
+    "title": "Suite Home Sagrada Familia",
+    "name": "Apartment Spain",
+    "type": "apartments",
+    "desc": "Located on tree-lined Gaudí Avenue, Suite Home Barcelona is just 250 m from the Sagrada Familia cathedral. Some apartments offer views of Barcelona’s famous monument. All apartments are fully-equipped and air-conditioned (in Two-Bedroom Apartment (4 Adults) there is no AC, just heating, in summer portable air conditioner and fans are provided). Free Wi-fi is available. The stylish apartments have parquet flooring and contemporary furniture. The spacious living and dining area is equipped with a flat-screen TV, and CD player. A free safe is also provided. The kitchen features an electric hob, oven, dishwasher and microwave. A washing machine and ironing facilities are also included. Suite Home’s luxury apartments are within walking distance of several cafés, restaurants and supermarkets. This is our guests' favorite part of Barcelona, according to independent reviews.",
+    "descShort": "Situated on tree-lined Gaudí Avenue, Suite Home Barcelona is just 250 m from the Sagrada Familia cathedral. Some apartments offer views of Barcelona’s famous monument.",
+    "city": "barcelona",
+    "address": {
+      "name": "Avenida Gaudí, 28, Eixample, 08025 Barcelona, Spain",
+      "lat": 42.755364294872074,
+      "lng": -3.4568272158264826,
+      "_id": "636bc82fd19a17203498aae9"
+    },
+    "distance": "10",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
+    ],
+    "cheapestPrice": 2563,
+    "featured": false,
+    "rating": 4.8,
+    "score": 9.2,
+    "rooms": [
+      "6360f0de64ec9fc1b2c27645",
+      "6360f0e164ec9fc1b2c2764b",
+      "6360f0e464ec9fc1b2c27651",
+      "636135ca381961f151cc53d2"
+    ],
+    "createdAt": "2022-11-09T15:33:03.991Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc82fd19a17203498aae6",
+    "title": "Hotel des Nations Saint Germain",
+    "name": "Hotel Paris",
+    "type": "hotels",
+    "desc": "Located in Da Lat, 1.9 km from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace. This 3-star hotel offers room service and a concierge service. The property has a 24-hour front desk, airport transportation, a shared kitchen and free WiFi throughout the property. At the hotel, every room includes a desk. Rooms come complete with a private bathroom equipped with a bidet and slippers, while some units at Raon Dalat also provide guests with a seating area. All guest rooms feature a shared bathroom, a hairdryer and bed linen. The area is popular for hiking and cycling, and car rental is available at the accommodation. Dalat Flower Gardens is 2.4 km from Raon Dalat, while Xuan Huong Lake is 4.2 km away. The nearest airport is Lien Khuong Airport, 32.2 km from the hotel.",
+    "descShort": "Located in Da Lat, 1.2 miles from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace.",
+    "city": "paris",
+    "address": {
+      "name": "54 rue Monge, 05. Pantheon - Saint-Michel, 75005 Paris, Paris",
+      "lat": 49.12253146954712,
+      "lng": -6.126223487361484,
+      "_id": "636bc82fd19a17203498aae7"
+    },
+    "distance": "3",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp"
+    ],
+    "cheapestPrice": 566,
+    "featured": false,
+    "rating": 4.4,
+    "score": 9,
+    "rooms": [
+      "6360f04964ec9fc1b2c275e5",
+      "6360f04d64ec9fc1b2c275eb"
+    ],
+    "createdAt": "2022-11-09T15:33:03.991Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc97e3c829cf74e3856e5",
+    "title": "Santiago Bernabéu",
+    "name": "Hotel Marid",
+    "type": "hotels",
+    "desc": "The air-conditioned units feature a living room with a flat-screen TV, a kitchen with a dishwasher and a microwave, a washing machine, a safety deposit box, and a private bathroom with bathrobes and slippers. There's a seating and/or dining area in some units. A gym and laundry facilities are available at the condo hotel. A bicycle rental service is available at Palazzo Delle Pietre - Luxury Apartments. Popular points of interest near the accommodation include Pantheon, Palazzo Venezia and Castel Sant'Angelo. The nearest airport is Rome Ciampino, 17.7 km from Palazzo Delle Pietre - Luxury Apartments, and the property offers a paid airport shuttle service. This is our guests' favorite part of Rome, according to independent reviews.",
+    "descShort": "Santiago Bernabéu Stadium. Stadium in Madrid, Spain. An 81,000-capacity stadium for Real Madrid, with regular matches plus tours and a trophy room.",
+    "city": "marid",
+    "address": {
+      "name": "Av. de Concha Espina, 1, 28036 Madrid, Spain",
+      "lat": 40.70216137554275,
+      "lng": -0.13352776375127792,
+      "_id": "636bc97e3c829cf74e3856e6"
+    },
+    "distance": "8",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp"
+    ],
+    "cheapestPrice": 1459,
+    "featured": true,
+    "rating": 4.8,
+    "score": 9.9,
+    "rooms": [
+      "6360f05f64ec9fc1b2c275f1",
+      "6360f06364ec9fc1b2c275f7"
+    ],
+    "createdAt": "2022-11-09T15:38:38.045Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc9aa3c829cf74e3856e9",
+    "title": "Hotel des Nations Saint Germain",
+    "name": "Hotel Paris",
+    "type": "hotels",
+    "desc": "Located in Da Lat, 1.9 km from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace. This 3-star hotel offers room service and a concierge service. The property has a 24-hour front desk, airport transportation, a shared kitchen and free WiFi throughout the property. At the hotel, every room includes a desk. Rooms come complete with a private bathroom equipped with a bidet and slippers, while some units at Raon Dalat also provide guests with a seating area. All guest rooms feature a shared bathroom, a hairdryer and bed linen. The area is popular for hiking and cycling, and car rental is available at the accommodation. Dalat Flower Gardens is 2.4 km from Raon Dalat, while Xuan Huong Lake is 4.2 km away. The nearest airport is Lien Khuong Airport, 32.2 km from the hotel.",
+    "descShort": "Located in Da Lat, 1.2 miles from Dalat Palace Golf Club, Raon Dalat provides accommodations with a shared lounge, free private parking, a garden and a terrace.",
+    "city": "paris",
+    "address": {
+      "name": "54 rue Monge, 05. Pantheon - Saint-Michel, 75005 Paris, Paris",
+      "lat": 49.12253146954712,
+      "lng": -6.126223487361484,
+      "_id": "636bc9aa3c829cf74e3856ea"
+    },
+    "distance": "3",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059000/342713045_skpicr.webp",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667058792/test_h8wwca.webp"
+    ],
+    "cheapestPrice": 566,
+    "featured": false,
+    "rating": 4.4,
+    "score": 9,
+    "rooms": [
+      "6360f04964ec9fc1b2c275e5",
+      "6360f04d64ec9fc1b2c275eb"
+    ],
+    "createdAt": "2022-11-09T15:39:22.484Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc9b93c829cf74e3856ed",
+    "title": "Suite Home Sagrada Familia",
+    "name": "Apartment Spain",
+    "type": "apartments",
+    "desc": "Located on tree-lined Gaudí Avenue, Suite Home Barcelona is just 250 m from the Sagrada Familia cathedral. Some apartments offer views of Barcelona’s famous monument. All apartments are fully-equipped and air-conditioned (in Two-Bedroom Apartment (4 Adults) there is no AC, just heating, in summer portable air conditioner and fans are provided). Free Wi-fi is available. The stylish apartments have parquet flooring and contemporary furniture. The spacious living and dining area is equipped with a flat-screen TV, and CD player. A free safe is also provided. The kitchen features an electric hob, oven, dishwasher and microwave. A washing machine and ironing facilities are also included. Suite Home’s luxury apartments are within walking distance of several cafés, restaurants and supermarkets. This is our guests' favorite part of Barcelona, according to independent reviews.",
+    "descShort": "Situated on tree-lined Gaudí Avenue, Suite Home Barcelona is just 250 m from the Sagrada Familia cathedral. Some apartments offer views of Barcelona’s famous monument.",
+    "city": "barcelona",
+    "address": {
+      "name": "Avenida Gaudí, 28, Eixample, 08025 Barcelona, Spain",
+      "lat": 42.755364294872074,
+      "lng": -3.4568272158264826,
+      "_id": "636bc9b93c829cf74e3856ee"
+    },
+    "distance": "10",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg"
+    ],
+    "cheapestPrice": 2563,
+    "featured": false,
+    "rating": 4.8,
+    "score": 9.2,
+    "rooms": [
+      "6360f0de64ec9fc1b2c27645",
+      "6360f0e164ec9fc1b2c2764b",
+      "6360f0e464ec9fc1b2c27651",
+      "636135ca381961f151cc53d2"
+    ],
+    "createdAt": "2022-11-09T15:39:37.646Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "636bc9c03c829cf74e3856f1",
+    "title": "Palazzo Delle Pietre - Luxury Apartments",
+    "name": "Apartment Rome",
+    "type": "apartments",
+    "desc": "Located in Rome, near Piazza Navona, Trevi Fountain and Largo di Torre Argentina, Palazzo Delle Pietre - Luxury Apartments features free WiFi. The air-conditioned units feature a living room with a flat-screen TV, a kitchen with a dishwasher and a microwave, a washing machine, a safety deposit box, and a private bathroom with bathrobes and slippers. There's a seating and/or dining area in some units. A gym and laundry facilities are available at the condo hotel. A bicycle rental service is available at Palazzo Delle Pietre - Luxury Apartments. Popular points of interest near the accommodation include Pantheon, Palazzo Venezia and Castel Sant'Angelo. The nearest airport is Rome Ciampino, 17.7 km from Palazzo Delle Pietre - Luxury Apartments, and the property offers a paid airport shuttle service. This is our guests' favorite part of Rome, according to independent reviews.",
+    "descShort": "Set in Rome, near Piazza Navona, Trevi Fountain and Largo di Torre Argentina, Palazzo Delle Pietre - Luxury Apartments features free WiFi.",
+    "city": "rome",
+    "address": {
+      "name": "Via delle Coppelle 23, Pantheon, 00186 Rome, Italy",
+      "lat": 41.855658300794516,
+      "lng": 12.232674213697553,
+      "_id": "636bc9c03c829cf74e3856f2"
+    },
+    "distance": "2",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667059191/320632480_e8ot0i.jpg",
+      "https://res.cloudinary.com/dncxndync/image/upload/v1667295685/324251873_mfbcvz.jpg"
+    ],
+    "cheapestPrice": 912,
+    "featured": false,
+    "rating": 4.7,
+    "score": 9.1,
+    "rooms": [
+      "6360f0a664ec9fc1b2c27621",
+      "6360f0aa64ec9fc1b2c27627",
+      "6360f0b464ec9fc1b2c2762d"
+    ],
+    "createdAt": "2022-11-09T15:39:44.936Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0,
+    "published": true
+  },
+  {
+    "_id": "6386179b6c69eb1e675f68c5",
+    "title": "test dalat",
+    "name": "33Apartment Da Nang",
+    "type": "apartments",
+    "desc": "test Offering ",
+    "descShort": "test Offering city",
+    "city": "dalat",
+    "address": {
+      "name": "22 An Thượng 28, DaLat, Vietnam",
+      "lat": 16.053,
+      "lng": 107.243,
+      "_id": "6386179b6c69eb1e675f68c6"
+    },
+    "distance": "3 km",
+    "photos": [
+      "https://res.cloudinary.com/dncxndync/image/upload/v1669439221/octsyoz7jnlofvdkwbmp.png"
+    ],
+    "cheapestPrice": 455,
+    "featured": true,
+    "rooms": [
+      
+    ],
+    "user": "637f705f221f9d3b3fc71c4d",
+    "published": true,
+    "createdAt": "2022-11-29T14:30:51.189Z",
+    "updatedAt": "2022-11-30T05:24:29.188Z",
+    "__v": 0
+  }
 ]
