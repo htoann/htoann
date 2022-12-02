@@ -2,10 +2,10 @@
   <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32px"/>
 </a> -->
 
-### Hi 👋
-- 🎓 My full name is **Tran Huu Toan**
-- 🔭 I'm currently 3nd year student at **DTU - Duy Tan University**
-- 💬 Ask me about every thing
+- 👋 Hi, I’m Toan
+- 👀 I’m interested in playing guitar
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I'm looking to collaborate with anyone I can
 - 📫 How to reach me: **[Facebook](https://www.facebook.com/htoann/)**
 <!-- - ⚡-->
 
