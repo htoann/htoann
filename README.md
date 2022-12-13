@@ -2,9 +2,9 @@
   <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="32px"/>
 </a> -->
 
+<!-- - ⚽ I’m interested in playing guitar and football -->
 - 👋 Hi, I’m Toan
-- ⚽ I’m interested in playing guitar and football
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning [Hack NASA](https://www.youtube.com/watch?v=ZRMX-D5pAHw)
 - 💞️ I'm looking to collaborate with anyone I can
 - 📫 How to reach me: **[Facebook](https://www.facebook.com/htoann/)**
 <!-- - ⚡-->
