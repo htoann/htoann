@@ -42,7 +42,7 @@
 </div>
 </br> -->
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <details>
   <summary>:dizzy: Github Stats</summary> <br/>
@@ -54,7 +54,7 @@
 </br>
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=htoann&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=htoann&theme=react-dark"/>
 </div>
 
 </details>
@@ -140,4 +140,4 @@
 <br/>
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
