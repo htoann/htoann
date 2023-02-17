@@ -3,7 +3,7 @@
 </a> -->
 
 <!-- - ⚽ I’m interested in playing guitar and football -->
-- 👋 Hi, I’m Toan
+👋 Hi, I’m Toan
 <!-- - 🌱 I’m currently learning **[HACK NASA](https://www.youtube.com/watch?v=pLTdWra4s50)**
 <!-- - 💞️ I'm looking to collaborate with anyone I can
 <!-- - 📫 How to reach me: **[Facebook](https://www.facebook.com/htoann/)**
