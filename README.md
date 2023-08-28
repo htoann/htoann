@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/htoann">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;I'm+currently+3nd+year+student+at+DTU;Always+looking+for+new+things+to+learn&center=true&width=450&height=45"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;I'm+currently+4nd+year+student+at+DTU;Always+looking+for+new+things+to+learn&center=true&width=450&height=45"/>
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 </div>
 </br> -->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=htoann&label=Profile%20views&color=0e75b6&style=flat" alt="htoann" /> </p>
 
 <details>
   <summary>:dizzy: Github Stats</summary> <br/>
@@ -53,9 +53,9 @@
   
 </br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=htoann&theme=react-dark"/>
-</div>
+</div> -->
 
 </details>
 
