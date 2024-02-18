@@ -17,7 +17,8 @@
 
 <div align="center">
   <a href="https://github.com/htoann">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;I'm+currently+final+year+student+at+DTU;Always+looking+for+new+things+to+learn&center=true&width=500&height=45"/>
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;I'm+currently+final+year+student+at+DTU;Always+looking+for+new+things+to+learn&center=true&width=500&height=45"/> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;Always+looking+for+new+things+to+learn&center=true&width=500&height=45"/>
   </a>
 </div>
 
