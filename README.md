@@ -3,7 +3,7 @@
 </a> -->
 
 <!-- - ⚽ I’m interested in playing guitar and football -->
-👋 Hi, I’m Toan
+<!-- 👋 Hi, I’m Toan -->
 <!-- - 🌱 I’m currently learning **[HACK NASA](https://www.youtube.com/watch?v=pLTdWra4s50)**
 <!-- - 💞️ I'm looking to collaborate with anyone I can
 <!-- - 📫 How to reach me: **[Facebook](https://www.facebook.com/htoann/)**
@@ -18,7 +18,7 @@
 <div align="center">
   <a href="https://github.com/htoann">
 <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;I'm+currently+final+year+student+at+DTU;Always+looking+for+new+things+to+learn&center=true&width=500&height=45"/> -->
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+a+student;Always+looking+for+new+things+to+learn&center=true&width=500&height=45"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Always+looking+for+new+things+to+learn&center=true&width=500&height=45"/>
   </a>
 </div>
 
